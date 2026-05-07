@@ -52,3 +52,15 @@
 [2026-05-07T23:00:42.895Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
 [2026-05-07T23:03:43.225Z] [log] [App] User idle - pausing animations to save resources
 [2026-05-07T23:08:56.343Z] [log] [CIIPanel] Calculated 211 countries with focal point intelligence
+[2026-05-07T23:12:44.823Z] [log] [CIIPanel] Focal points ready, calculating scores...
+[2026-05-07T23:12:44.823Z] [log] [CIIPanel] Calculated 213 countries with focal point intelligence
+[2026-05-07T23:12:44.866Z] [log] [Intelligence] All signals loaded for CII calculation
+[2026-05-07T23:14:08.472Z] [log] [StrategicPosturePanel] Got 1527 total military vessels
+[2026-05-07T23:14:08.473Z] [log] [StrategicPosturePanel] IRAN: 17 vessels [special, special, special, unknown, unknown, special, unknown, unknown, special, unknown, special, special, special, special, unknown, special, unknown]
+[2026-05-07T23:14:08.473Z] [log] [StrategicPosturePanel] TAIWAN: 2 vessels [unknown, special]
+[2026-05-07T23:14:08.474Z] [log] [StrategicPosturePanel] BALTIC: 221 vessels [special, special, special, special, special, unknown, unknown, special, unknown, unknown, special, special, unknown, special, special, special, special, special, special, special, unknown, special, special, destroyer, special, special, special, special, unknown, special, special, unknown, carrier, unknown, unknown, unknown, special, unknown, special, special, unknown, special, special, unknown, unknown, destroyer, special, special, special, special, special, unknown, unknown, special, special, special, special, special, unknown, unknown, special, unknown, carrier, unknown, unknown, special, special, special, patrol, special, unknown, special, unknown, special, unknown, special, special, special, special, special, unknown, special, special, special, special, unknown, special, unknown, special, special, special, unknown, special, special, unknown, special, destroyer, unknown, patrol, unknown]
+[2026-05-07T23:14:08.474Z] [log] [StrategicPosturePanel] BLACK SEA: 12 vessels [unknown, unknown, unknown, unknown, special, special, unknown, unknown, unknown, special, special, unknown]
+[2026-05-07T23:14:08.475Z] [log] [StrategicPosturePanel] SCS: 27 vessels [unknown, unknown, unknown, unknown, unknown, special, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, unknown, special, unknown, unknown, unknown, unknown, unknown, special, unknown, unknown, unknown, unknown]
+[2026-05-07T23:14:08.475Z] [log] [StrategicPosturePanel] E.MED: 11 vessels [unknown, special, special, unknown, unknown, special, special, special, unknown, unknown, special]
+[2026-05-07T23:14:08.475Z] [log] [StrategicPosturePanel] GAZA: 5 vessels [special, special, unknown, unknown, special]
+[2026-05-07T23:14:08.476Z] [log] [StrategicPosturePanel] Augmented with 1527 vessels, posture levels recalculated

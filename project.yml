@@ -22,13 +22,10 @@ targets:
     info:
       path: HantaTracker/Info.plist
       properties:
-        UILaunchStoryboardName: LaunchScreen
+        UILaunchScreen:
+          UIColorName: ""
+          UIImageName: ""
         UISupportedInterfaceOrientations:
           - UIInterfaceOrientationPortrait
-        NSLocationWhenInUseUsageDescription: ""
         UIApplicationSceneManifest:
           UIApplicationSupportsMultipleScenes: false
-          UISceneConfigurations:
-            UIWindowSceneSessionRoleApplication:
-              - UISceneConfigurationName: Default Configuration
-                UISceneDelegateClassName: $(PRODUCT_MODULE_NAME).SceneDelegate

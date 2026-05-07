@@ -1,0 +1,54 @@
+[2026-05-07T22:58:41.085Z] [log] [App] Variant check: stored="null", current="full"
+[2026-05-07T22:58:41.085Z] [log] [App] Variant changed - seeding new defaults, disabling cross-variant panels
+[2026-05-07T22:58:41.086Z] [log] [App] Sources reduction: 98 disabled, 106 enabled
+[2026-05-07T22:58:41.132Z] [info] 🌐 i18next is made possible by our own product, Locize — consider powering your project with managed localization (AI, CDN, integrations): https://locize.com 💙
+[2026-05-07T22:58:41.560Z] [log] [PWA] Service worker registered
+[2026-05-07T22:58:42.468Z] [log] [App] Free tier: round-robin disabled 26 source(s) to enforce 80-source limit (per-category fairness)
+[2026-05-07T22:58:42.761Z] [warning] THREE.THREE.Clock: This module has been deprecated. Please use THREE.Timer instead.
+[2026-05-07T22:58:42.771Z] [log] [MapContainer] Initializing deck.gl map (desktop mode)
+[2026-05-07T22:58:42.880Z] [log] [StrategicPosturePanel] setLocationClickHandler called, handler: function
+[2026-05-07T22:58:42.880Z] [log] [StrategicPosturePanel] Handler stored, onLocationClick now: function
+[2026-05-07T22:58:42.928Z] [log] [StrategicRiskPanel] Using cached scores from backend
+[2026-05-07T22:58:43.436Z] [warning] [.WebGL-0x351c03c08d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-05-07T22:58:43.731Z] [warning] [.WebGL-0x351c03c08d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-05-07T22:58:43.764Z] [warning] [.WebGL-0x351c03c08d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[2026-05-07T22:58:43.811Z] [warning] [.WebGL-0x351c03c08d00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+[2026-05-07T22:58:43.847Z] [log] [StrategicRiskPanel] Using cached scores from backend
+[2026-05-07T22:58:44.211Z] [log] [StrategicPosturePanel] Got 45 total military vessels
+[2026-05-07T22:58:44.211Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
+[2026-05-07T22:58:44.503Z] [log] [CIIPanel] Rendered 31 countries from cached/bootstrap data
+[2026-05-07T22:58:46.045Z] [info] [News] Digest fetched: 16 categories
+[2026-05-07T22:58:46.076Z] [debug] [TrendingKeywords] Suppressed non-entity term: "ship"
+[2026-05-07T22:58:46.076Z] [debug] [TrendingKeywords] Suppressed non-entity term: "hantavirus"
+[2026-05-07T22:58:46.077Z] [debug] [TrendingKeywords] Suppressed non-entity term: "war"
+[2026-05-07T22:58:47.974Z] [warning] [clerk] getClerkToken: no session (clerkInstance=true, user=false)
+[2026-05-07T22:58:50.441Z] [debug] [TrendingKeywords] Suppressed non-entity term: "gov"
+[2026-05-07T22:58:50.441Z] [debug] [TrendingKeywords] Suppressed non-entity term: "outbreak"
+[2026-05-07T22:58:50.442Z] [debug] [TrendingKeywords] Suppressed non-entity term: "layoffs"
+[2026-05-07T22:58:50.442Z] [debug] [TrendingKeywords] Suppressed non-entity term: "down"
+[2026-05-07T22:58:50.442Z] [debug] [TrendingKeywords] Suppressed non-entity term: "peace"
+[2026-05-07T22:58:53.779Z] [log] [CIIPanel] Focal points ready, calculating scores...
+[2026-05-07T22:58:53.779Z] [log] [CIIPanel] Calculated 210 countries with focal point intelligence
+[2026-05-07T22:58:53.835Z] [log] [Intelligence] All signals loaded for CII calculation
+[2026-05-07T22:58:55.236Z] [debug] [TrendingKeywords] Suppressed non-entity term: "cruise"
+[2026-05-07T22:58:55.236Z] [debug] [TrendingKeywords] Suppressed non-entity term: "health"
+[2026-05-07T22:58:55.236Z] [debug] [TrendingKeywords] Suppressed non-entity term: "rise"
+[2026-05-07T22:58:55.238Z] [debug] [TrendingKeywords] Suppressed non-entity term: "energy"
+[2026-05-07T22:58:55.796Z] [log] [CIIPanel] Focal points ready, calculating scores...
+[2026-05-07T22:58:55.797Z] [log] [CIIPanel] Calculated 211 countries with focal point intelligence
+[2026-05-07T22:58:57.838Z] [log] [Search] Indexing 261 news items (allNews total: 261)
+[2026-05-07T22:58:57.842Z] [log] [CIIPanel] Calculated 211 countries with focal point intelligence
+[2026-05-07T22:59:12.884Z] [log] [StrategicPosturePanel] Re-augmenting with vessels...
+[2026-05-07T22:59:12.884Z] [log] [StrategicPosturePanel] Got 45 total military vessels
+[2026-05-07T22:59:12.884Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
+[2026-05-07T22:59:42.882Z] [log] [StrategicPosturePanel] Re-augmenting with vessels...
+[2026-05-07T22:59:42.882Z] [log] [StrategicPosturePanel] Got 45 total military vessels
+[2026-05-07T22:59:42.883Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
+[2026-05-07T23:00:12.896Z] [log] [StrategicPosturePanel] Re-augmenting with vessels...
+[2026-05-07T23:00:12.897Z] [log] [StrategicPosturePanel] Got 45 total military vessels
+[2026-05-07T23:00:12.897Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
+[2026-05-07T23:00:42.895Z] [log] [StrategicPosturePanel] Re-augmenting with vessels...
+[2026-05-07T23:00:42.895Z] [log] [StrategicPosturePanel] Got 45 total military vessels
+[2026-05-07T23:00:42.895Z] [log] [StrategicPosturePanel] Augmented with 45 vessels, posture levels recalculated
+[2026-05-07T23:03:43.225Z] [log] [App] User idle - pausing animations to save resources
+[2026-05-07T23:08:56.343Z] [log] [CIIPanel] Calculated 211 countries with focal point intelligence

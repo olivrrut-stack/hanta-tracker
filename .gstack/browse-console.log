@@ -64,3 +64,10 @@
 [2026-05-07T23:14:08.475Z] [log] [StrategicPosturePanel] E.MED: 11 vessels [unknown, special, special, unknown, unknown, special, special, special, unknown, unknown, special]
 [2026-05-07T23:14:08.475Z] [log] [StrategicPosturePanel] GAZA: 5 vessels [special, special, unknown, unknown, special]
 [2026-05-07T23:14:08.476Z] [log] [StrategicPosturePanel] Augmented with 1527 vessels, posture levels recalculated
+[2026-05-07T23:19:49.099Z] [log] [CIIPanel] Calculated 213 countries with focal point intelligence
+[2026-05-07T23:20:46.971Z] [info] [News] Digest fetched: 16 categories
+[2026-05-07T23:20:47.009Z] [debug] [TrendingKeywords] Suppressed non-entity term: "military"
+[2026-05-07T23:20:47.009Z] [debug] [TrendingKeywords] Suppressed non-entity term: "out"
+[2026-05-07T23:20:47.384Z] [debug] [TrendingKeywords] Suppressed non-entity term: "tech"
+[2026-05-07T23:20:48.025Z] [log] [CIIPanel] Focal points ready, calculating scores...
+[2026-05-07T23:20:48.026Z] [log] [CIIPanel] Calculated 213 countries with focal point intelligence

@@ -41,8 +41,9 @@ struct ContentView: View {
         }
         .preferredColorScheme(.dark)
         .sheet(item: $viewModel.selectedCase) { caseLocation in
-            CaseDetailSheet(caseLocation: caseLocation)
-                .presentationDetents([.medium])
+            CaseDetailSheet(caseLocation: caseLocation, viewModel: viewModel)
+                .presentationDetents([.medium, .large])
+                .presentationDragIndicator(.visible)
                 .presentationBackground(Color(white: 0.07))
         }
         .task {

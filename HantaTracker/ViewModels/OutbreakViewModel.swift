@@ -6,9 +6,12 @@ final class OutbreakViewModel: ObservableObject {
     @Published var isLoading = false
     @Published var lastUpdated: Date?
     @Published var selectedCase: CaseLocation?
+    @Published var news: [NewsArticle] = []
+    @Published var isLoadingNews = false
 
     private let service = HealthMapService()
     private let cache = CacheService()
+    private let newsService = NewsService()
 
     func load() async {
         isLoading = true
@@ -27,6 +30,17 @@ final class OutbreakViewModel: ObservableObject {
             }
         }
         isLoading = false
+    }
+
+    func fetchNews(for country: String) async {
+        news = []
+        isLoadingNews = true
+        news = await newsService.fetchNews(country: country)
+        isLoadingNews = false
+    }
+
+    func clearNews() {
+        news = []
     }
 
     private func loadFallback() -> [CaseLocation] {

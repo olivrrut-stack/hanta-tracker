@@ -71,3 +71,6 @@
 [2026-05-07T23:20:47.384Z] [debug] [TrendingKeywords] Suppressed non-entity term: "tech"
 [2026-05-07T23:20:48.025Z] [log] [CIIPanel] Focal points ready, calculating scores...
 [2026-05-07T23:20:48.026Z] [log] [CIIPanel] Calculated 213 countries with focal point intelligence
+[2026-05-07T23:26:53.448Z] [log] [CIIPanel] Focal points ready, calculating scores...
+[2026-05-07T23:26:53.448Z] [log] [CIIPanel] Calculated 214 countries with focal point intelligence
+[2026-05-07T23:26:53.489Z] [log] [Intelligence] All signals loaded for CII calculation
